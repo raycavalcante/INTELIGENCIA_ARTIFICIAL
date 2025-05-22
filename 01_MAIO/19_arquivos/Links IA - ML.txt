@@ -1,0 +1,30 @@
+
+
+####### Escola Virtual do IFAM: #######
+https://escolavirtual.ifam.edu.br/login/index.php
+
+
+####### Sites importantes: ########
+https://pythonacademy.com.br/
+
+https://pythoniluminado.netlify.app/
+
+
+#######Métodos e Operações com Strigs:##########
+https://awari.com.br/metodos-de-string-em-python-aprenda-a-manipular-textos-com-facilidade/
+
+
+###### Listas: #######
+
+https://pythonacademy.com.br/blog/listas-no-python
+https://pythonacademy.com.br/blog/manipulacao-de-listas-no-python
+
+https://awari.com.br/lista-de-metodos-python-aprenda-as-melhores-praticas-para-utilizar-os-metodos-de-listas-em-python/
+
+
+###### Estrutura de repetição FOR: #######
+https://pythoniluminado.netlify.app/for-loops
+
+https://pythonacademy.com.br/blog/loops-com-for-no-python
+
+
